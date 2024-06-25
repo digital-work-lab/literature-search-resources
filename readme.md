@@ -38,6 +38,8 @@
 
 ## Research papers
 
+See [GitHub page overview](https://digital-work-lab.github.io/literature-search-resources/)
+
 - SinghSingh2017 with [GitHub resources](https://github.com/pv-singh/DLs-for-SLRs)
 - BramerDeJongeRethlefsenEtAl2018
 - CochraneLibrary
