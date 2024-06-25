@@ -182,6 +182,11 @@
                 "endpoint": "colrev.paper_md",
                 "version": "1.0",
                 "word_template": "APA-7.docx"
+            },
+            {
+                "endpoint": "colrev.github_pages",
+                "version": "0.1",
+                "auto_push": true
             }
         ]
     }

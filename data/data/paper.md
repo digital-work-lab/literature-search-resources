@@ -41,6 +41,29 @@ Data was managed with CoLRev version 0.12.3 [@WagnerPrester2024].
 
 # Coding and synthesis
 
-<!-- NEW_RECORD_SOURCE -->
+_Records to synthesize_:<!-- NEW_RECORD_SOURCE -->
+
+
+- @BramerDeJongeRethlefsenEtAl2018
+
+- @CochraneLibrary
+
+- @HaddawayRethlefsenDaviesEtAl2022
+
+- @Li2021
+
+- @LiRainer2022
+
+- @LinLoGonzalezEtAl2023
+
+- @OboyleGotzZivic2023
+
+- @ScellsAzzopardiZucconEtAl2018
+
+- @ScellsZucconKoopman2019
+
+- @SinghSingh2017
+
+- @TippsSuchePubmed
 
 # References
