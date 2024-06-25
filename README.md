@@ -1,0 +1,3 @@
+# Literature-search-resources
+
+These are the GitHub pages for a repository based on the [ColRev](https://github.com/CoLRev-Environment/colrev) standard.
