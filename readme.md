@@ -43,7 +43,7 @@ See [GitHub page overview](https://digital-work-lab.github.io/literature-search-
 - SinghSingh2017 with [GitHub resources](https://github.com/pv-singh/DLs-for-SLRs)
 - BramerDeJongeRethlefsenEtAl2018
 - CochraneLibrary
-- HaddawayRethlefsenDaviesEtAl2022
+- HaddawayRethlefsenDaviesEtAl2022 - JSON data structure for transparent and repeatable reporting of literature searches
 - Li2021
 - LiRainer2022
 - LinLoGonzalezEtAl2023
