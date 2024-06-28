@@ -51,6 +51,15 @@ See [GitHub page overview](https://digital-work-lab.github.io/literature-search-
 - ScellsAzzopardiZucconEtAl2018
 - ScellsZucconKoopman2019
 - TippsSuchePubmed
+- CronenTownsendZhouCroft2002
+- DuraoKredoVolmink2015
+- KhwilehWayJones2017
+- ScellsZuccon2018
+- ScellsZucconKoopman2020
+- ScellsZucconKoopmanEtAl2020
+- ScellsZucconSharafEtAl2020
+- ShtokKurlandCarmelEtAl2012
+- ZhouCroft2007
 
 ## Guidelines
 

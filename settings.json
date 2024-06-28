@@ -40,6 +40,13 @@
             "search_type": "MD",
             "search_parameters": {},
             "comment": ""
+        },
+        {
+            "endpoint": "colrev.dblp",
+            "filename": "data/search/md_dblp.bib",
+            "search_type": "MD",
+            "search_parameters": {},
+            "comment": ""
         }
     ],
     "search": {
