@@ -64,6 +64,7 @@ See [GitHub page overview](https://digital-work-lab.github.io/literature-search-
 ## Guidelines
 
 - [Dartmouth library resources](https://researchguides.dartmouth.edu/TDI-MPH/search-pubmed), covering the use of controlled vocabulary
+
     - In step 6: displays items found per sub-query....
 
 - [UTICA University: translating search queries and search syntax translation resources](https://utica.libguides.com/c.php?g=960363&p=6934102)
